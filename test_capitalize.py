@@ -7,3 +7,4 @@ def capitalize_string(s):
 
 def test_capitalize_string():
     assert capitalize_string('test') == 'Test'
+# trigger action
